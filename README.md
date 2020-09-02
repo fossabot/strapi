@@ -15,6 +15,7 @@
 <a href="https://marketplace.digitalocean.com/apps/strapi">
 <img src="https://blog.strapi.io/content/images/2020/05/DigitalOcean.png" />
 </a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fpierreburgy%2Fstrapi?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpierreburgy%2Fstrapi.svg?type=shield"/></a>
 
 <a href="https://www.heroku.com/deploy/?template=https://github.com/strapi/strapi-heroku-template">
 <img src="https://blog.strapi.io/content/images/2020/05/Heroku.png" />
@@ -154,3 +155,6 @@ Check out our [roadmap](https://portal.productboard.com/strapi) to get informed 
 ## License
 
 See the [LICENSE](./LICENSE) file for licensing information.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fpierreburgy%2Fstrapi.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fpierreburgy%2Fstrapi?ref=badge_large)
